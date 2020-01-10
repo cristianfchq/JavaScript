@@ -32,15 +32,21 @@ if (condicion) {
 ## while
 
 while (condicion)
+
 {
+
     sentencia;    
+
 }
 
 do
+
 {
+
     sentencia;
+
 }
-while (condición);
+swhile (condición);
 
 ## swith
 
@@ -112,7 +118,7 @@ function nombre([parametro1] [,parametro2] [..., parametroN]) {
   
   sentencias
   
-s}
+}
 
 function calcular_ventas(unidades_a, unidades_b, unidades_c) {
 
