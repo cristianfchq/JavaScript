@@ -46,7 +46,7 @@ do
     sentencia;
 
 }
-swhile (condición);
+while (condición);
 
 ## swith
 
