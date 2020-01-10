@@ -16,13 +16,21 @@
 
 
 # blucles y condicionales
+
 ## if
+
 if (condicion) {
+
     sentencia1;
+
 } else {
+
     sentencia2;
+
 }
+
 ## while
+
 while (condicion)
 {
     sentencia;    
