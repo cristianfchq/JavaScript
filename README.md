@@ -1,17 +1,18 @@
 #operadores
-+
--
-*
-/
 
-==
-!+
-> >=
-< <=
+//  +
+//  -
+//  *
+//  /
 
-&&	Operador and (y)	a && b
-||	Operador or (o)	a || b
-!	Operador not (no)	!a
+//  ==
+//  !+
+//  > >=
+//  < <=
+
+//  &&	Operador and (y)	a && b
+//  ||	Operador or (o)	a || b
+//  !	Operador not (no)	!a
 
 
 #blucles y condicionales
